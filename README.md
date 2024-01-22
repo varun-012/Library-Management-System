@@ -1,3 +1,5 @@
+Our 3rd semester project in CPP
+
 Library Management System In C++
 This is project purely base on Object Oriented programming in C++.
 
